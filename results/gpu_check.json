@@ -1,0 +1,8 @@
+{
+  "device_backend": "mps",
+  "torch": "2.4.1",
+  "episodes": 540000,
+  "binary_decision_differences": 0,
+  "maximum_standardized_score_difference": 3.892220473034058e-06,
+  "elapsed_seconds": 13.952296500094235
+}

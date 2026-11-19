@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these experiments, please cite this research software."
+title: "Conformal Bounds Through Sensor Blackouts: Reproducible Experiments"
+type: software
+version: 1.1.0
+date-released: 2026-11-19
+license: MIT
+authors:
+  - family-names: Chen
+    given-names: Lei
+    affiliation: "School of Computing, Georgia Southern University"
+    orcid: "https://orcid.org/0000-0002-3919-8056"
+  - family-names: Yavas
+    given-names: Cemil Emre
+    affiliation: "School of Computing, Georgia Southern University"
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    email: "cy02470@georgiasouthern.edu"
+keywords:
+  - conformal prediction
+  - state estimation
+  - sensor outages
+  - networked control
+  - uncertainty quantification
+abstract: "A reproducible synthetic benchmark for schedule-uniform conformal state bounds, including common-event shape comparisons, observable censoring, three plants and noise laws, model-mismatch controls, and numerical validation."

@@ -1,0 +1,14 @@
+{
+  "results/extensions_metrics.csv": "8772e3aba06d18bcd2b414b9c4850c633c882781def964df151dc4dab31002bf",
+  "results/extensions_paired.csv": "6e500dee6b4fa9f624d4f34c764a94cc7b559a08b063ec5b7939ffedb607f205",
+  "results/extensions_summary.csv": "c54e81c9654798f6ce2b15200b286b513453db3203a3995df012c0662f682036",
+  "results/main_metrics.csv": "f41a3b43b877777cbd0dcfde879d6d80d22d1ca0a267fc0551acbc866ce1918e",
+  "results/main_paired.csv": "bb534ced313cf08f33118809e7227347045ad57725ad0d28d3955b6162e23f8c",
+  "results/main_summary.csv": "0de4c115ce342bb0d5637a7e6d9fdffe2b0509050bcb219a234bd34366bc43e9",
+  "results/mismatch_metrics.csv": "1e089121b9e664821e9b56fc938f2f37f7872f19945e24e3b038752c6d4f0add",
+  "results/mismatch_summary.csv": "d3cbb13bdbfb5baecfc93f729cd5f2efd72d9c3dcb457dfa881a73f88e9b83f8",
+  "results/sensitivity_metrics.csv": "3aab49da5d113d6c74c1a99958690d68ad6c81451c5fbaa10833aa30939555bc",
+  "results/sensitivity_paired.csv": "1c205c6b8623b3fa710ef8f67e8157bb56a3447f091d0e692d450200b1abd92c",
+  "results/sensitivity_summary.csv": "18a1f11eb3932c9ceee736ce569b9d05ca38d6b80a466e49fe3e4bf85bfe028c",
+  "results/shift_metrics.csv": "5c9327c38df3308727c4e3b79836f62f7d36a72916dffc373c55a36e703612ca"
+}

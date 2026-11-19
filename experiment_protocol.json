@@ -1,0 +1,37 @@
+{
+  "purpose": "Equal-event shape comparison and sensor-information-only censoring",
+  "seed_prefix": 20261120,
+  "plants": [
+    "integrator",
+    "oscillator",
+    "planar"
+  ],
+  "laws": [
+    "gaussian",
+    "correlated_t",
+    "switching"
+  ],
+  "repetitions": 30,
+  "T": 100,
+  "L": 16,
+  "ntrain": 400,
+  "ncal": 999,
+  "ntest": 2000,
+  "alpha": 0.05,
+  "shapes": [
+    "rms",
+    "propagated_primitive",
+    "constant",
+    "training_maximum",
+    "training_temporal_quantile_0.95"
+  ],
+  "censor_threshold": 2.5,
+  "mismatch_factors": [
+    0,
+    0.005,
+    0.01,
+    0.02
+  ],
+  "mismatch_definition": "DI A_true[0,0]=1+delta; observer uses nominal A; periodic reception; unchanged noise; original primary bounds; fresh noise stream",
+  "analysis": "Paired comparisons within repetitions; 95% Student-t intervals across independent fits; retain all cells and comparator outcomes. Designed after the primary study; new shape/censor results use entirely new training/calibration/test random streams."
+}

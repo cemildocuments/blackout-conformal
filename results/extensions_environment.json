@@ -1,0 +1,12 @@
+{
+  "jobs": 270,
+  "test_episodes": 540000,
+  "workers": 8,
+  "elapsed_seconds": 29.410152708995156,
+  "python": "3.12.1",
+  "numpy": "1.26.3",
+  "seed_prefix": 20261120,
+  "gate_threshold": 2.5,
+  "training_temporal_quantile": 0.95,
+  "maximum_identity_error": 1.887379141862766e-15
+}
